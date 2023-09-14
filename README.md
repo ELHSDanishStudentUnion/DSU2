@@ -32,7 +32,7 @@
     <h2> Meeting Date ___ </h2> 
     <img src = "Image1.png" width ="250">
 
-   <details><summary> Description </summary> 
+   <details><summary> Description </summary> </details>
     <p> Photo Info about meeting and stuff </p>
 </section>
    <section id= "watch 2" 
