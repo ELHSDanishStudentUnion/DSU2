@@ -15,7 +15,7 @@
                 <li><a href="#home">Home</a>
                 <li><a href="#shop">Information</a></li>
                 <li><a href="#watch 1">Photo Gallery</a></li>
-                <li><a href="#about">Upcomming meetings</a></li>
+                <li><a href="#about">Upcoming meetings</a></li>
         </ul>
     </nav>
 
