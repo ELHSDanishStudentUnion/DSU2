@@ -49,9 +49,7 @@
 
  
 
-    <footer>
-        <p>Danish Student Union 2023 (r) </p>
-    </footer>
+    
   </header>
 </body>
 </html>
