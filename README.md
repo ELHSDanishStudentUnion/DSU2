@@ -9,7 +9,7 @@
 <body>
     <header>
         <h1> </h1>
-        <img src = "Denmark.png" width = "500" height ="200"> 
+        <img src = "denmark flag.jpeg" width = "500" height ="200"> 
         <nav>
             <ul>
                 <li><a href="#home">Home</a>
