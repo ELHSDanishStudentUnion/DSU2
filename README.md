@@ -34,7 +34,7 @@
 
    <details><summary> Description </summary> </details>
     <p> Photo Info about meeting and stuff </p>
-</section>
+    </section>
 <section id= "watch 2"> 
    <h2> Meeting: October 4th</h2> 
    <img src = "Image2.png" width ="250">
