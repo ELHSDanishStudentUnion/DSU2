@@ -1,1 +1,58 @@
-# DSU2
+# DSU2 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css"> 
+</head>
+<body>
+    <header>
+        <h1> </h1>
+        <img src = "Denmark.png" width = "500" height ="200"> 
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a>
+                <li><a href="#shop">Information</a></li>
+                <li><a href="#watch 1">Photo Gallery</a></li>
+                <li><a href="#about">Upcomming meetings</a></li>
+            </ul>
+        </nav>
+
+    <section id="home"
+  <h1> Danish Student Union<h1> 
+    </section>
+<h2> Home </h2> 
+    <section id="shop">
+<h2> Information </h2> 
+  <p> We meet every other Wednesday in Mr. Wolff's room. We will make wooden clogs and eat Danishes, aswell as this you will learn about Danish culture and language. </p>
+  </section>
+    <h2> Photo Gallery </h2>
+    <section id= "watch 1" 
+    <h2> Meeting Date ___ </h2> 
+    <img src = "Image1.png" width ="250">
+
+   <details><summary> Description </summary> 
+    <p> Photo Info about meeting and stuff </p>
+   </section>
+   <section id= "watch 2" 
+   <h2> Meeting Date ___ </h2> 
+   <img src = "Image2.png" width ="250">
+  <details><summary> Description </summary> 
+   <p>  </p>
+  </details>
+  </section>
+    
+
+
+ 
+
+    <footer>
+        
+    </footer>
+  </header>
+</body>
+</html>
+
+
+    
