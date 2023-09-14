@@ -16,10 +16,10 @@
                 <li><a href="#shop">Information</a></li>
                 <li><a href="#watch 1">Photo Gallery</a></li>
                 <li><a href="#about">Upcomming meetings</a></li>
-            </ul>
-        </nav>
+        </ul>
+    </nav>
 
-    <section id="home"
+<section id="home"
   <h1> Danish Student Union<h1> 
     </section>
 <h2> Home </h2> 
