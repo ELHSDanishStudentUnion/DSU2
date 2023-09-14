@@ -35,7 +35,7 @@
    <details><summary> Description </summary> </details>
     <p> Photo Info about meeting and stuff </p>
 </section>
-<section id= "watch 2" 
+<section id= "watch 2"> 
    <h2> Meeting Date ___ </h2> 
    <img src = "Image2.png" width ="250">
   <details><summary> Description </summary> 
@@ -45,7 +45,8 @@
     <section id="about">
     <h2> Upcoming meetings </h2>
     <p> Wednesday September 20th <br>
-    Wednesday October 4th </p>
+    Wednesday October 4th <br> 
+    Wednesday October 18th</p>
 
  
 
