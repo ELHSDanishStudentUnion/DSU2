@@ -29,14 +29,14 @@
   </section>
 <h2> Photo Gallery </h2>
 <section id= "watch 1"> 
-    <h2> Meeting Date September 20th </h2> 
+    <h2> Meeting: September 20th </h2> 
     <img src = "Image1.png" width ="250">
 
    <details><summary> Description </summary> </details>
     <p> Photo Info about meeting and stuff </p>
 </section>
 <section id= "watch 2"> 
-   <h2> Meeting Date October 4th</h2> 
+   <h2> Meeting: October 4th</h2> 
    <img src = "Image2.png" width ="250">
   <details><summary> Description </summary><p> Photo Info about meeting and stuff </p> </details>
   </section>
