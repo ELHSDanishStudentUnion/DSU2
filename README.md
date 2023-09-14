@@ -42,8 +42,10 @@
    <p>  </p>
   </details>
   </section>
-    
-
+    <section id="about">
+    <h2> Upcomming meetings </h2>
+    <p> Wednesday September 20th <br>
+    Wednesday October 4th </p>
 
  
 
