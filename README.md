@@ -27,14 +27,14 @@
 <h2> Information </h2> 
   <p> We meet every other Wednesday in Mr. Wolff's room. We will make wooden clogs and eat Danishes, aswell as this you will learn about Danish culture and language. </p>
   </section>
-    <h2> Photo Gallery </h2>
-    <section id= "watch 1" 
+<h2> Photo Gallery </h2>
+<section id= "watch 1"> 
     <h2> Meeting Date ___ </h2> 
     <img src = "Image1.png" width ="250">
 
    <details><summary> Description </summary> 
     <p> Photo Info about meeting and stuff </p>
-   </section>
+</section>
    <section id= "watch 2" 
    <h2> Meeting Date ___ </h2> 
    <img src = "Image2.png" width ="250">
