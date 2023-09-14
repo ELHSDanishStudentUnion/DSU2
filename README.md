@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css"> 
 </head>
-<body>
+    <body>
     <header>
         <h1> </h1>
         <img src = "denmark flag.jpeg" width = "450" height ="300"> 
@@ -50,7 +50,7 @@
  
 
     
-  </header>
+    
 </body>
 </html>
 
