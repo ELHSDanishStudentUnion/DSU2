@@ -38,9 +38,7 @@
 <section id= "watch 2"> 
    <h2> Meeting Date ___ </h2> 
    <img src = "Image2.png" width ="250">
-  <details><summary> Description </summary> 
-   <p> Photo Info about meeting and stuff </p>
-  </details>
+  <details><summary> Description </summary><p> Photo Info about meeting and stuff </p> </details>
   </section>
     <section id="about">
     <h2> Upcoming meetings </h2>
