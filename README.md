@@ -33,8 +33,8 @@
     <h2> Meeting: September 20th </h2> 
     <img src = "Image1.png" width ="250">
 
-   <details><summary> Description </summary> </details>
-    <p> Photo Info about meeting and stuff </p>
+   <details><summary> Description </summary> 
+    <p> Photo Info about meeting and stuff </p></details>
     </section>
 <section id= "watch 2"> 
    <h2> Meeting: October 4th</h2> 
