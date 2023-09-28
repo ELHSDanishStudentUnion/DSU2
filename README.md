@@ -34,7 +34,7 @@
     <img src = "TGC.png" width ="250">
 
    <details><summary> Standings as of 9/27/23 </summary> 
-    <p> 1st place: Clogs, Cloggers, Clog Dogs & Clog Champs <b>  1 point </b><br>2nd place: <b>0 points</b><br> </p></details>
+    <p> 1st place: Clogs, Cloggers, Clog Dogs & Clog Champs <b>  1 point </b><br>2nd place: <b>0 points</b><br>3rd place: <b>0 points</b> </p></details>
     </section>
 <h2> Photo Gallery </h2>
 <section id= "watch 1"> 
