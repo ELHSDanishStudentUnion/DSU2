@@ -20,7 +20,7 @@
         </ul>
     </nav>
 
-<section id="home"
+<section id="home">
   <h1> Danish Student Union<h1> 
     </section>
 <h2> Join The Danish Student Union!</h2> 
