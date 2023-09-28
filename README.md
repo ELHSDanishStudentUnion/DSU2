@@ -31,7 +31,7 @@
   </section>
 <section id= "TGC"> 
     <h2> The Golden Clog Current Standings </h2> 
-    <img src = "TGC.png" width ="250">
+    <img src = "TGC.png" width ="350">
 
    <details><summary> Standings as of 9/27/23 </summary> 
     <p> 1st place (The Golden Clog): Clogs, Cloggers, Clog Dogs & Clog Champs <b>  1 point </b><br>2nd place (The Silver Clog): <b>0 points</b><br>3rd place (The Bronze Clog): <b>0 points</b> <br> Last place (The Swedish Clog): <b>0 points</b> </p></details>
@@ -42,7 +42,7 @@
     <img src = "dsu1.png" width ="250">
 
    <details><summary> Description </summary> 
-    <p> Photo Info about meeting and stuff </p></details>
+    <p> Eating Danishes at DSU  </p></details>
     </section>
 
 <section id= "watch 2"> 
