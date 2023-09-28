@@ -29,6 +29,13 @@
 <h2> Information </h2> 
   <p> We meet every other Wednesday in Mr. Wolff's room. We will make wooden clogs and eat Danishes, aswell as this you will learn about Danish culture and language. </p>
   </section>
+<section id= "TGC"> 
+    <h2> The Golden Clog Current Standings </h2> 
+    <img src = "TGC.png" width ="250">
+
+   <details><summary> Standings as of 9/27/23 </summary> 
+    <p> 1st place: Clogs, Cloggers, Clog Dogs & Clog Champs <b> - 1 point </b><br>2nd place: <b>-0 points</b><br> </p></details>
+    </section>
 <h2> Photo Gallery </h2>
 <section id= "watch 1"> 
     <h2> Meeting: September 20th </h2> 
@@ -37,13 +44,7 @@
    <details><summary> Description </summary> 
     <p> Photo Info about meeting and stuff </p></details>
     </section>
-<section id= "TGC"> 
-    <h2> The Golden Clog Current Standings </h2> 
-    <img src = "TGC.png" width ="250">
 
-   <details><summary> Standings as of 9/27/23 </summary> 
-    <p> 1st place: Clogs, Cloggers, Clog Dogs & Clog Champs <b> - 1 point </b><br>2nd place: <b>-0 points</b><br> </p></details>
-    </section>
 <section id= "watch 2"> 
    <h2> Meeting: October 4th</h2> 
    <img src = "Image2.png" width ="250">
