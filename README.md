@@ -42,7 +42,7 @@
     <img src = "TGC.png" width ="250">
 
    <details><summary> Standings as of 9/27/23 </summary> 
-    <p> 1st place: "Clogs", "Cloggers", "Clog Dogs" & "Clog Champs"  </p></details>
+    <p> 1st place: Clogs, Cloggers, Clog Dogs & Clog Champs <b> - 1 point </b><br>2nd place: <b>-0 points</b><br> </p></details>
     </section>
 <section id= "watch 2"> 
    <h2> Meeting: October 4th</h2> 
