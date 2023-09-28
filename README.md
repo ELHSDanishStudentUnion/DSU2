@@ -38,7 +38,7 @@
     </section>
 <h2> Photo Gallery </h2>
 <section id= "watch 1"> 
-    <h2> Meeting: September 20th </h2> 
+    <h2> Meeting: September 27th </h2> 
     <img src = "dsu1.png" width ="250">
 
    <details><summary> Description </summary> 
