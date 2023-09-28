@@ -14,6 +14,7 @@
             <ul>
                 <li><a href="#home">Join DSU</a>
                 <li><a href="#shop">Information</a></li>
+                <li><a href="#TGC">The Golden Clog Current Standings</a></li>
                 <li><a href="#watch 1">Photo Gallery</a></li>
                 <li><a href="#about">Upcoming meetings</a></li>
         </ul>
@@ -35,6 +36,13 @@
 
    <details><summary> Description </summary> 
     <p> Photo Info about meeting and stuff </p></details>
+    </section>
+<section id= "TGC"> 
+    <h2> The Golden Clog Current Standings </h2> 
+    <img src = "TGC.png" width ="250">
+
+   <details><summary> Standings as of 9/27/23 </summary> 
+    <p> 1st place: "Clogs", "Cloggers", "Clog Dogs" & "Clog Champs"  </p></details>
     </section>
 <section id= "watch 2"> 
    <h2> Meeting: October 4th</h2> 
