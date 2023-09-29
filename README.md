@@ -33,7 +33,7 @@
     <h2> The Golden Clog Current Standings </h2> 
     <img src = "TGC.png" width ="350">
 
-   <details><summary> Standings as of 9/27/23 </summary> 
+   <details><summary> Current Standings </summary> 
     <p> 1st place (The Golden Clog): Clogs, Cloggers, Clog Dogs & Clog Champs <b>  1 point </b><br>2nd place (The Silver Clog): <b>0 points</b><br>3rd place (The Bronze Clog): <b>0 points</b> <br> Last place (The Swedish Clog): <b>0 points</b> </p></details>
     <details><summary> Previous standings </summary> 
     <p> <b>September 27th</b><br> 1st place (The Golden Clog): Clogs, Cloggers, Clog Dogs & Clog Champs <b>  1 point </b><br>2nd place (The Silver Clog): <b>0 points</b><br>3rd place (The Bronze Clog): <b>0 points</b> <br> Last place (The Swedish Clog): <b>0 points</b> </p></details>
