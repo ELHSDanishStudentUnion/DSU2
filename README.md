@@ -36,7 +36,7 @@
    <details><summary> Current Standings </summary> 
     <p> 1st place (The Golden Clog): Clogs, Cloggers, Clog Dogs & Clog Champs <b>  1 point </b><br>2nd place (The Silver Clog): <b>0 points</b><br>3rd place (The Bronze Clog): <b>0 points</b> <br> Last place (The Swedish Clog): <b>0 points</b> </p></details>
     <details><summary> Previous standings </summary> 
-    <p> <b>September 27th</b><br> 1st place (The Golden Clog): Clogs, Cloggers, Clog Dogs & Clog Champs <b>  1 point </b><br>2nd place (The Silver Clog): <b>0 points</b><br>3rd place (The Bronze Clog): <b>0 points</b> <br> Last place (The Swedish Clog): <b>0 points</b> </p></details>
+    <p> <b>September 27th</b><br> 1st place (The Golden Clog): Clogs, Omega Clogs, Clog Dogs & Clog Champs <b>  3 points </b><br>2nd place (The Silver Clog): Cloggers <b>2 points</b><br>3rd place (The Bronze Clog): <b>0 points</b> <br> Last place (The Swedish Clog): <b>0 points</b> </p></details>
     </section>
 <h2> Photo Gallery </h2>
 <section id= "watch 1"> 
@@ -50,7 +50,7 @@
 <section id= "watch 2"> 
    <h3> Meeting: October 11th</h3> 
    <img src = "Image2.png" width ="250">
-  <details><summary> Description </summary><p> Photo Info about meeting and stuff </p> </details>
+  <details><summary> Description </summary><p> W meeting, we learned about Danish stereotypes and played a game related to them   </p> </details>
   </section>
     <section id="about">
     <h2> Upcoming meetings </h2>
