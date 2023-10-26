@@ -17,8 +17,8 @@
                 <li><a href="#TGC">The Golden Clog Current Standings</a></li>
                 <li><a href="#watch 1">Photo Gallery</a></li>
                 <li><a href="#about">Upcoming meetings</a></li>
-        </ul>
-    </nav>
+            </ul>
+        </nav>
 
   <h1 id="home"> Danish Student Union<h1> 
 <h2> Join The Danish Student Union!</h2> 
