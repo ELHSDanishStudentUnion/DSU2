@@ -52,9 +52,9 @@
   </section>
     <section id="about">
     <h2> Upcoming meetings </h2>
-    <p> Wednesday September 27th <br>
-    Wednesday October 11th <br> 
-    Wednesday October 25th</p>
+    <p> Wednesday November 8th <br>
+    Wednesday November 22nd <br> 
+    Wednesday December 6th </p>
 
  
 
