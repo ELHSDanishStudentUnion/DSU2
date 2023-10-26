@@ -12,7 +12,7 @@
         <img src = "denmark flag.jpeg" width = "450" height ="300"> 
         <nav>
             <ul>
-                <li><a href="#home">Join DSU</a>
+                <li><a href="join.md">Join DSU</a>
                 <li><a href="#shop">Information</a></li>
                 <li><a href="#TGC">The Golden Clog Current Standings</a></li>
                 <li><a href="Photos.md">Photo Gallery</a></li>
