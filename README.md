@@ -15,7 +15,7 @@
                 <li><a href="#home">Join DSU</a>
                 <li><a href="#shop">Information</a></li>
                 <li><a href="#TGC">The Golden Clog Current Standings</a></li>
-                <li><a href="#watch 1">Photo Gallery</a></li>
+                <li><a href="Photos.md">Photo Gallery</a></li>
                 <li><a href="#about">Upcoming meetings</a></li>
             </ul>
         </nav>
@@ -36,7 +36,6 @@
     <details><summary> Previous standings </summary> 
     <p> <b>September 27th</b><br><p> 1st place (The Golden Clog): Clogs, Cloggers, Clog Dogs & Clog Champs <b>  1 point </b><br>2nd place (The Silver Clog): <b>0 points</b><br>3rd place (The Bronze Clog): <b>0 points</b> <br> Last place (The Swedish Clog): <b>0 points</b> </p></details> 
     </section>
-<u></u><h2><a href="Photos.md"> Photo Gallery </a></h2></u>
     <section id="about">
     <h2> Upcoming meetings </h2>
     <p> Wednesday November 8th <br>
