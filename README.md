@@ -47,7 +47,7 @@
 
 <section id= "watch 2"> 
    <h3> Meeting: October 11th</h3> 
-   <img src = "DSUOCT11" width ="250">
+   <img src = "DSUOCT11.jpg" width ="250">
   <details><summary> Description </summary><p> W meeting, we learned about Danish stereotypes and played a game related to them   </p> </details>
   </section>
     <section id="about">
