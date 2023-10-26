@@ -13,7 +13,6 @@
         <nav>
             <ul>
                 <li><a href="join.md">Join DSU</a>
-                <li><a href="#shop">Information</a></li>
                 <li><a href="TCG.md">The Golden Clog Current Standings</a></li>
                 <li><a href="Photos.md">Photo Gallery</a></li>
                 <li><a href="#about">Upcoming meetings</a></li>
@@ -23,10 +22,6 @@
   <h1 id="home"> Danish Student Union<h1> 
 <h2> Join The Danish Student Union!</h2> 
     <p>We allow everyone to join, even if you're not Danish! Our club meets twice a month and is a lot of fun. It looks great on college applications and it provides great life experience</p>
-<section id="shop">
-<h2> Information </h2> 
-  <p> We meet every other Wednesday in Mr. Wolff's room. We will make wooden clogs, build legos and eat Danishes, aswell as this you will learn about Danish culture and language. </p>
-  </section>
     <section id="about">
     <h2> Upcoming meetings </h2>
     <p> Wednesday November 8th <br>
