@@ -36,7 +36,7 @@
     <details><summary> Previous standings </summary> 
     <p> <b>September 27th</b><br><p> 1st place (The Golden Clog): Clogs, Cloggers, Clog Dogs & Clog Champs <b>  1 point </b><br>2nd place (The Silver Clog): <b>0 points</b><br>3rd place (The Bronze Clog): <b>0 points</b> <br> Last place (The Swedish Clog): <b>0 points</b> </p></details> 
     </section>
-<h2><a href="Photos.md"> Photo Gallery </a></h2>
+<u></u><h2><a href="Photos.md"> Photo Gallery </a></h2></u>
     <section id="about">
     <h2> Upcoming meetings </h2>
     <p> Wednesday November 8th <br>
