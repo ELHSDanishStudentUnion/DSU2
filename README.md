@@ -23,13 +23,8 @@
     <p> Wednesday November 8th <br>
     Wednesday November 22nd <br> 
     Wednesday December 6th </p>
-
-
-
- 
-
-    
-    
+    </section>
+    </header>
 </body>
 </html>
 
