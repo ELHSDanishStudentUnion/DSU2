@@ -14,7 +14,7 @@
             <ul>
                 <li><a href="join.md">Join DSU</a></li>
                 <li><a href="TCG.md">The Golden Clog Current Standings</a></li>
-                <li><a href="Photos.md">Photo Gallery</a></li>
+                <li><a href="Photos.html">Photo Gallery</a></li>
                 <li><a href="#about">Upcoming meetings</a></li>
             </ul>
         </nav> 
